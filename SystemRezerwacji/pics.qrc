@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>bowling02.jpg</file>
+        <file>C85664FE-EA67-3B16-A92D07D047218420.JPG</file>
+        <file>bb2.png</file>
+        <file>874-mammut-bowling-club-2.jpg</file>
+        <file>11422-200.png</file>
+        <file>bb.png</file>
+        <file>bb1.png</file>
+        <file>bowling-ball.png</file>
+        <file>bowling-ball1.png</file>
+        <file>bowling-ball2.png</file>
+        <file>image.jpg</file>
+        <file>mammut-bowling-club.jpg</file>
+        <file>maxresdefault.jpg</file>
+        <file>mission_bowling_club007_pr_f_mob.jpg</file>
+        <file>Mission-Bowling-Club.jpg</file>
+        <file>pearl_bowling_center_budapest_hungary_16x9_05_950_534_80_s_c1.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
