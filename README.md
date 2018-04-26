@@ -1,4 +1,4 @@
 # ReservationSystem
 Qt application for supporting bowling clubs in their client's reservations.
 
-![alt text](https://imgur.com/a/nv60Iri)
+![alt text](https://i.imgur.com/txEOdyh.png)
